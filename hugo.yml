@@ -12,7 +12,7 @@ buildExpired: false
 params:
   env: production 
   title: Ruben Perea
-  description: "Blog Semanal en el que subiré contenido relacionado con la tecnología."
+  description: "Blog Semanal en el que subiré contenido relacionados con la tecnología."
   keywords: [Blog, Data Science]
   author: Rubén Perea
   DateFormat: "Jueves 2-10-2023"
@@ -40,7 +40,7 @@ params:
   # profile-mode
   profileMode:
     enabled: true
-    title: "Bienvenidos! \U0001F44B"
+    title: "¡Bienvenidos! \U0001F44B"
     subtitle: "**Articulos semanales** relacionado con la tecnología o alguna que otra sorpresa"
     imageUrl: "images/logo.png"
     imageWidth: 320
