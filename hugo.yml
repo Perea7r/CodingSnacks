@@ -1,18 +1,84 @@
 baseURL: "https://perea7r.github.io/CodingSnacks/"
 languageCode: es
-title: CodingSnacks
+title: Ruben Perea
+paginate: 5
 theme: PaperMod
 
-params:
-  homeInfoParams:
-    Title: "¡Bienvenidos a mi blog!"
-    Content: "Actualizaciones de contenido semanal sobre diversos temas relacionados con la tecnología."
-  socialIcons:
-    - name: github
-      url: https://github.com/Perea7r
-    - name: linkedin
-      url: https://www.linkedin.com/in/rubenpereaserrano/
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
 
+params:
+  env: production 
+  title: Ruben Perea
+  description: "Blog Semanal en el que subiré contenido relacionado con la tecnología."
+  keywords: [Blog, Data Science]
+  author: Rubén Perea
+  DateFormat: "Jueves 2-10-2023"
+  defaultTheme: auto
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  label:
+    text: "Rubén Perea"
+    icon: "images/coding.png"
+    iconHeight: 35
+
+  # profile-mode
+  profileMode:
+    enabled: true
+    title: "Bienvenidos! \U0001F44B"
+    subtitle: "**Articulos semanales** relacionado con la tecnología o alguna que otra sorpresa"
+    imageUrl: "images/logo.png"
+    imageWidth: 320
+    imageHeight: 320
+    imageTitle: "CodingSnacks"
+
+  # home-info mode
+  homeInfoParams:
+    Title: "Bienvenidos! \U0001F44B"
+    Content: "Subiré semanalmente un artículo relacionado con la técnología o alguna que otra sorpresa. \U0001F389"
+
+  socialIcons:
+    - name: linkedin
+      url: "https://www.linkedin.com/in/rubenpereaserrano/"
+    - name: github
+      url: "https://github.com/Perea7r"
+
+  analytics:
+    google:
+      SiteVerificationTag: "XYZabc"
+    bing:
+      SiteVerificationTag: "XYZabc"
+    yandex:
+      SiteVerificationTag: "XYZabc"
+
+  cover:
+    hidden: true
+    hiddenInList: true
+    hiddenInSingle: false 
+
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
     - name: Histórico
