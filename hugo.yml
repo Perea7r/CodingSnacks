@@ -15,7 +15,7 @@ params:
   description: "Blog Semanal en el que subiré contenido relacionados con la tecnología."
   keywords: [Blog, Data Science]
   author: Rubén Perea
-  DateFormat: "Jueves 2-10-2023"
+  DateFormat: "January 2, 2023"
   defaultTheme: auto
   disableThemeToggle: false
 
