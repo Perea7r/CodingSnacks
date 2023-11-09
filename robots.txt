@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://perea7r.github.io/CodingSnacks/sitemap.xml
