@@ -14,7 +14,7 @@
       
       <guid>https://perea7r.github.io/CodingSnacks/posts/09-11-2023/</guid>
       <description>Es una plataforma streaming distribuida que permite a los desarrolladores enviar y recibir mensajes de manera eficiente y confiable a través de aplicaciones. Es escalable, tolerante a fallos y de alto rendimiento lo que lo hace ideal para aplicaciones en tiempo real y procesamiento de datos en grandes volúmenes.
-Características Permite publicar y subscribirse a flujos de datos (streams) de manera distribuida. Almacena flujos de datos de manera persistente y tolerante a fallos.</description>
+Sin Kafka Con Kafka Características Permite publicar y subscribirse a flujos de datos (streams) de manera distribuida. Almacena flujos de datos de manera persistente y tolerante a fallos.</description>
     </item>
     
     
