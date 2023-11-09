@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>CodingSnacks</title>
+    <link>https://perea7r.github.io/CodingSnacks/</link>
+    <description>Recent content on CodingSnacks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 09 Nov 2023 09:27:57 +0100</lastBuildDate><atom:link href="https://perea7r.github.io/CodingSnacks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¿Qué es Apache Kafka?</title>
+      <link>https://perea7r.github.io/CodingSnacks/posts/09-11-2023/</link>
+      <pubDate>Thu, 09 Nov 2023 09:27:57 +0100</pubDate>
+      
+      <guid>https://perea7r.github.io/CodingSnacks/posts/09-11-2023/</guid>
+      <description></description>
+    </item>
+    
+    
+  </channel>
+</rss>

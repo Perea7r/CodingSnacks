@@ -2,3 +2,22 @@ baseURL: "https://perea7r.github.io/CodingSnacks/"
 languageCode: es
 title: CodingSnacks
 theme: PaperMod
+
+params:
+  homeInfoParams:
+    Title: "¡Bienvenidos a mi blog!"
+    Content: "Actualizaciones de contenido semanal sobre diversos temas relacionados con la tecnología."
+  socialIcons:
+    - name: github
+      url: https://github.com/Perea7r
+    - name: linkedin
+      url: https://www.linkedin.com/in/rubenpereaserrano/
+
+menu:
+  main:
+    - name: Histórico
+      url: /historico/
+      weight: 2
+    - name: Tags
+      url: /tags/
+      weight: 1
