@@ -1,6 +1,6 @@
 ---  
-title: "Histórico"
+title: "Artículos"
 layout: "archives"
-url: "/historico/"
+url: "/articulos/"
 summary: Lista ordenada por fecha de los posts
 ---

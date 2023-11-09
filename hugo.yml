@@ -80,9 +80,9 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - name: Histórico
-      url: /historico/
-      weight: 2
+    - name: Artículos
+      url: /articulos/
+      weight: 1
     - name: Tags
       url: /tags/
-      weight: 1
+      weight: 2
