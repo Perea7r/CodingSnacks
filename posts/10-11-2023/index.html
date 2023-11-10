@@ -146,7 +146,7 @@ Arquitactura centrada en los datos ❌ Se piensa primero en los datos que se nec
     <nav class="nav">
         <div class="logo">
             <a href="https://perea7r.github.io/CodingSnacks/" accesskey="h" title="Rubén Perea (Alt + H)">
-                <img src="https://perea7r.github.io/CodingSnacks/images/coding.png" alt="" aria-label="logo"
+                <img src="https://perea7r.github.io/CodingSnacks/images/logos/coding.png" alt="" aria-label="logo"
                     height="35">Rubén Perea</a>
             <div class="logo-switches">
                 <button id="theme-toggle" accesskey="t" title="(Alt + T)">
@@ -182,6 +182,11 @@ Arquitactura centrada en los datos ❌ Se piensa primero en los datos que se nec
                     <span>Tags</span>
                 </a>
             </li>
+            <li>
+                <a href="https://perea7r.github.io/CodingSnacks/search/" title="Buscar">
+                    <span>Buscar</span>
+                </a>
+            </li>
         </ul>
     </nav>
 </header>
@@ -212,7 +217,7 @@ Arquitactura centrada en los datos ❌ Se piensa primero en los datos que se nec
 <li>Se modelan todas las <strong>entidades y reglas</strong> especificas del dominio</li>
 <li>A partir de ahí implementar los casos de uso que queremos resolver.</li>
 </ul>
-<p><img loading="lazy" src="../../images/DDD.png" alt="DDD"  />
+<p><img loading="lazy" src="../../images/DDD/DDD.png" alt="DDD"  />
 </p>
 <h2 id="contextos-acotados">Contextos acotados<a hidden class="anchor" aria-hidden="true" href="#contextos-acotados">#</a></h2>
 <p>Son un concepto clave en DDD:</p>
@@ -225,7 +230,7 @@ Arquitactura centrada en los datos ❌ Se piensa primero en los datos que se nec
 </ul>
 <h3 id="problemas-que-soluciona">Problemas que soluciona<a hidden class="anchor" aria-hidden="true" href="#problemas-que-soluciona">#</a></h3>
 <p>Tener distintas personas que trabajan en distintas funcionalidades que interactuan y modifican entidades compartidas:</p>
-<p><img loading="lazy" src="../../images/DDD-diagrama.png" alt="Diagrama-DDD"  />
+<p><img loading="lazy" src="../../images/DDD/DDD-diagrama.png" alt="Diagrama-DDD"  />
 </p>
 <p>En este ejemplo la entidad class se está tratando de la misma forma desde el punto de vista del gimnasio que de las reservas y esto es peligroso ya que podemos tener distintos requisitos de información de la clase en función del contexto en el que nos encontremos.</p>
 <p>Desde el <strong>punto de vista del gimnasio</strong> nos interesará saber:</p>
@@ -246,17 +251,17 @@ Arquitactura centrada en los datos ❌ Se piensa primero en los datos que se nec
 <ol>
 <li>
 <p>Contexto información
-<img loading="lazy" src="../../images/DDD-info.png" alt="DDD-info"  />
+<img loading="lazy" src="../../images/DDD/DDD-info.png" alt="DDD-info"  />
 </p>
 </li>
 <li>
 <p>Contexto pagos
-<img loading="lazy" src="../../images/DDD-pagos.png" alt="DDD-pagos"  />
+<img loading="lazy" src="../../images/DDD/DDD-pagos.png" alt="DDD-pagos"  />
 </p>
 </li>
 <li>
 <p>Contexto reservas
-<img loading="lazy" src="../../images/DDD-reservas.png" alt="DDD-reservas"  />
+<img loading="lazy" src="../../images/DDD/DDD-reservas.png" alt="DDD-reservas"  />
 </p>
 </li>
 </ol>
@@ -265,7 +270,7 @@ Arquitactura centrada en los datos ❌ Se piensa primero en los datos que se nec
 <p>Evidentemente estos contextos no son independientes entre sí, se necesita que cada contexto cooperen entre ellos.</p>
 <h2 id="mapeo-de-contexto">Mapeo de contexto<a hidden class="anchor" aria-hidden="true" href="#mapeo-de-contexto">#</a></h2>
 <p>Es un diagrama en el que se dejan claras la interacciones y dependencias entre los distintos contextos.</p>
-<p><img loading="lazy" src="../../images/DDD-mapeo.png" alt="DDD-mapeo"  />
+<p><img loading="lazy" src="../../images/DDD/DDD-mapeo.png" alt="DDD-mapeo"  />
 </p>
 <p><strong>El contexto Upstream (U) condiciona siempre al Downstream (D)</strong></p>
 <p>En caso de no haber ninguna relación significa que ninguno manda sobre el otro.</p>

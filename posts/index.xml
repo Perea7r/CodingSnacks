@@ -27,6 +27,5 @@ Arquitactura centrada en los datos ❌ Se piensa primero en los datos que se nec
 Sin Kafka Con Kafka Características Permite publicar y subscribirse a flujos de datos (streams) de manera distribuida. Almacena flujos de datos de manera persistente y tolerante a fallos.</description>
     </item>
     
-    
   </channel>
 </rss>
