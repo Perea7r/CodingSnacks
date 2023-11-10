@@ -31,9 +31,8 @@ params:
   ShowShareButtons: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
-  ShowCodeCopyButtons: false
-  disableSpecial1stPost: false
-  disableScrollToTop: false
+  showtoc: true
+  comments: true
 
 
   label:
