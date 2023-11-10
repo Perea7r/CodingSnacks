@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Ruben Perea</title>
-    <link>https://perea7r.github.io/CodingSnacks/</link>
-    <description>Recent content on Ruben Perea</description>
+    <title>DDD on Ruben Perea</title>
+    <link>https://perea7r.github.io/CodingSnacks/tags/ddd/</link>
+    <description>Recent content in DDD on Ruben Perea</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Fri, 10 Nov 2023 11:34:02 +0100</lastBuildDate><atom:link href="https://perea7r.github.io/CodingSnacks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Nov 2023 11:34:02 +0100</lastBuildDate><atom:link href="https://perea7r.github.io/CodingSnacks/tags/ddd/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Domain Driven Design (DDD)</title>
       <link>https://perea7r.github.io/CodingSnacks/posts/10-11-2023/</link>
@@ -15,17 +15,6 @@
       <guid>https://perea7r.github.io/CodingSnacks/posts/10-11-2023/</guid>
       <description>Arquitactura centrada en los datos ❌ Se piensa primero en los datos que se necesitan almacenar. Se recopilan requisitos para tener claras las reglas de negocio. Diseño del modelo de datos. Diseñamos y construimos nuestro sistema para trabajar con los datos. Como consecuencia, tenemos una arquitectura de software totalmente dependiente de los datos. Arquitectura centrada en el dominio ✅ Se piensa en el dominio del problema (lógica central es decir enfocarnos en todas las cosas importantes relacionada con el área del problema que queremos tratar) no en los datos que se necesitan almacenar.</description>
     </item>
-    
-    <item>
-      <title>¿Qué es Apache Kafka?</title>
-      <link>https://perea7r.github.io/CodingSnacks/posts/09-11-2023/</link>
-      <pubDate>Thu, 09 Nov 2023 09:27:57 +0100</pubDate>
-      
-      <guid>https://perea7r.github.io/CodingSnacks/posts/09-11-2023/</guid>
-      <description>Es una plataforma streaming distribuida que permite a los desarrolladores enviar y recibir mensajes de manera eficiente y confiable a través de aplicaciones. Es escalable, tolerante a fallos y de alto rendimiento lo que lo hace ideal para aplicaciones en tiempo real y procesamiento de datos en grandes volúmenes.
-Sin Kafka Con Kafka Características Permite publicar y subscribirse a flujos de datos (streams) de manera distribuida. Almacena flujos de datos de manera persistente y tolerante a fallos.</description>
-    </item>
-    
     
   </channel>
 </rss>
