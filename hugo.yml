@@ -4,7 +4,6 @@ title: Ruben Perea
 paginate: 5
 theme: PaperMod
 
-googleAnalytics: UA-149424518-1
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
@@ -68,6 +67,13 @@ params:
       url: "https://www.linkedin.com/in/rubenpereaserrano/"
     - name: github
       url: "https://github.com/Perea7r"
+    
+  assets:
+    favicon: favicon.png
+    favicon16x16: favicon.png
+    favicon32x32: favicon.png
+    apple_touch_icon: favicon.png
+    safari_pinned_tab: favicon.png
 
   analytics:
     google:
