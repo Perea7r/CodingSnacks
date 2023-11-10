@@ -33,7 +33,7 @@ params:
 
   label:
     text: "Rubén Perea"
-    icon: "images/coding.png"
+    icon: "images/logos/coding.png"
     iconHeight: 35
 
   # profile-mode
@@ -41,10 +41,16 @@ params:
     enabled: true
     title: "¡Bienvenidos! \U0001F44B"
     subtitle: "**Articulos semanales** relacionado con la tecnología o alguna que otra sorpresa"
-    imageUrl: "images/logo.png"
+    imageUrl: "images/logos/logo.png"
     imageWidth: 320
     imageHeight: 320
     imageTitle: "CodingSnacks"
+  
+  outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # is necessary
 
   # home-info mode
   homeInfoParams:
@@ -86,3 +92,6 @@ menu:
     - name: Tags
       url: /tags/
       weight: 2
+    - name: Buscar
+      url: /search/
+      weight: 3
