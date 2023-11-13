@@ -9,10 +9,10 @@
     <lastBuildDate>Thu, 09 Nov 2023 09:27:57 +0100</lastBuildDate><atom:link href="https://perea7r.github.io/CodingSnacks/tags/apache-kafka/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>¿Qué es Apache Kafka?</title>
-      <link>https://perea7r.github.io/CodingSnacks/posts/09-11-2023/</link>
+      <link>https://perea7r.github.io/CodingSnacks/posts/november23/09-11-2023/</link>
       <pubDate>Thu, 09 Nov 2023 09:27:57 +0100</pubDate>
       
-      <guid>https://perea7r.github.io/CodingSnacks/posts/09-11-2023/</guid>
+      <guid>https://perea7r.github.io/CodingSnacks/posts/november23/09-11-2023/</guid>
       <description>Es una plataforma streaming distribuida que permite a los desarrolladores enviar y recibir mensajes de manera eficiente y confiable a través de aplicaciones. Es escalable, tolerante a fallos y de alto rendimiento lo que lo hace ideal para aplicaciones en tiempo real y procesamiento de datos en grandes volúmenes.
 Sin Kafka Con Kafka Características Permite publicar y subscribirse a flujos de datos (streams) de manera distribuida. Almacena flujos de datos de manera persistente y tolerante a fallos.</description>
     </item>
