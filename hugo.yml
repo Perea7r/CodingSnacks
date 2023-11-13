@@ -32,7 +32,6 @@ params:
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   showtoc: true
-  comments: true
 
 
   label:
@@ -49,12 +48,6 @@ params:
     imageWidth: 320
     imageHeight: 320
     imageTitle: "CodingSnacks"
-  
-  outputs:
-  home:
-    - HTML
-    - RSS
-    - JSON # is necessary
 
   # home-info mode
   homeInfoParams:
@@ -87,22 +80,11 @@ params:
     hiddenInList: true
     hiddenInSingle: false 
 
-  fuseOpts:
-    isCaseSensitive: false
-    shouldSort: true
-    location: 0
-    distance: 1000
-    threshold: 0.4
-    minMatchCharLength: 0
-    keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
     - name: Artículos
-      url: /articulos/
+      url: /archives/
       weight: 1
     - name: Tags
       url: /tags/
       weight: 2
-    - name: Buscar
-      url: /search/
-      weight: 3

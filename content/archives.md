@@ -1,6 +1,6 @@
 ---  
-title: "Artículos"
+title: "Posts"
 layout: "archives"
-url: "/articulos/"
+url: "/archives/"
 summary: Lista ordenada por fecha de los posts
 ---
