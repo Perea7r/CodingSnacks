@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>git y github on Ruben Perea</title>
+    <link>https://perea7r.github.io/CodingSnacks/tags/git-y-github/</link>
+    <description>Recent content in git y github on Ruben Perea</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 20 Nov 2023 08:53:55 +0100</lastBuildDate><atom:link href="https://perea7r.github.io/CodingSnacks/tags/git-y-github/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Buenas prácticas de trabajo en Git</title>
+      <link>https://perea7r.github.io/CodingSnacks/posts/november23/20-11-2023/</link>
+      <pubDate>Mon, 20 Nov 2023 08:53:55 +0100</pubDate>
+      
+      <guid>https://perea7r.github.io/CodingSnacks/posts/november23/20-11-2023/</guid>
+      <description>Realizar commits atómicos El enfoque atómico supone lo siguiente. Confirmar (commitear) cada modificación o tarea como un cambio separado. Confirmar solo cuando se complete un bloque de trabajo. Confirmar cada cambio de diseño por separado, con confirmación conjunta para: archivos de diseño, código subyacente y recursos adicionales. Beneficios del enfoque atómico
+Es fácil de revertir un commit sin afectar a otros cambios. Es fácil hacer otros cambios sobre la marcha.</description>
+    </item>
+    
+  </channel>
+</rss>

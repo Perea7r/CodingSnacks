@@ -6,7 +6,17 @@
     <description>Recent content on Ruben Perea</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Mon, 13 Nov 2023 11:45:09 +0100</lastBuildDate><atom:link href="https://perea7r.github.io/CodingSnacks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Nov 2023 08:53:55 +0100</lastBuildDate><atom:link href="https://perea7r.github.io/CodingSnacks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Buenas prácticas de trabajo en Git</title>
+      <link>https://perea7r.github.io/CodingSnacks/posts/november23/20-11-2023/</link>
+      <pubDate>Mon, 20 Nov 2023 08:53:55 +0100</pubDate>
+      
+      <guid>https://perea7r.github.io/CodingSnacks/posts/november23/20-11-2023/</guid>
+      <description>Realizar commits atómicos El enfoque atómico supone lo siguiente. Confirmar (commitear) cada modificación o tarea como un cambio separado. Confirmar solo cuando se complete un bloque de trabajo. Confirmar cada cambio de diseño por separado, con confirmación conjunta para: archivos de diseño, código subyacente y recursos adicionales. Beneficios del enfoque atómico
+Es fácil de revertir un commit sin afectar a otros cambios. Es fácil hacer otros cambios sobre la marcha.</description>
+    </item>
+    
     <item>
       <title>Lenguaje ubicuo</title>
       <link>https://perea7r.github.io/CodingSnacks/posts/november23/13-11-2023/</link>
