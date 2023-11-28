@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>TestUnitarios on Ruben Perea</title>
+    <link>https://perea7r.github.io/CodingSnacks/tags/testunitarios/</link>
+    <description>Recent content in TestUnitarios on Ruben Perea</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 28 Nov 2023 08:45:37 +0100</lastBuildDate><atom:link href="https://perea7r.github.io/CodingSnacks/tags/testunitarios/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Técnicas de definición de casos de prueba</title>
+      <link>https://perea7r.github.io/CodingSnacks/posts/november23/28-11-2023/</link>
+      <pubDate>Tue, 28 Nov 2023 08:45:37 +0100</pubDate>
+      
+      <guid>https://perea7r.github.io/CodingSnacks/posts/november23/28-11-2023/</guid>
+      <description>Partición de equivalencias Los datos de entrada de un programa se pueden agrupar en clases diferentes en las que todos los miembros de dicha clase están relacionados. Cada una de estas clases es una partición de equivalencia en la que el programa se comporta de la misma forma para cada miembro de la clase. Esto nos permite reducir así el número total de casos de prueba que hay que desarrollar. Consta de dos pasos:</description>
+    </item>
+    
+  </channel>
+</rss>

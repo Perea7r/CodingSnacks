@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Ruben Perea</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Mon, 20 Nov 2023 08:53:55 +0100</lastBuildDate><atom:link href="https://perea7r.github.io/CodingSnacks/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Nov 2023 08:45:37 +0100</lastBuildDate><atom:link href="https://perea7r.github.io/CodingSnacks/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Técnicas de definición de casos de prueba</title>
+      <link>https://perea7r.github.io/CodingSnacks/posts/november23/28-11-2023/</link>
+      <pubDate>Tue, 28 Nov 2023 08:45:37 +0100</pubDate>
+      
+      <guid>https://perea7r.github.io/CodingSnacks/posts/november23/28-11-2023/</guid>
+      <description>Partición de equivalencias Los datos de entrada de un programa se pueden agrupar en clases diferentes en las que todos los miembros de dicha clase están relacionados. Cada una de estas clases es una partición de equivalencia en la que el programa se comporta de la misma forma para cada miembro de la clase. Esto nos permite reducir así el número total de casos de prueba que hay que desarrollar. Consta de dos pasos:</description>
+    </item>
+    
     <item>
       <title>Buenas prácticas de trabajo en Git</title>
       <link>https://perea7r.github.io/CodingSnacks/posts/november23/20-11-2023/</link>
