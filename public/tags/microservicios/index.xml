@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>microservicios on Ruben Perea</title>
+    <link>https://perea7r.github.io/CodingSnacks/tags/microservicios/</link>
+    <description>Recent content in microservicios on Ruben Perea</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 04 Dec 2023 09:00:28 +0100</lastBuildDate><atom:link href="https://perea7r.github.io/CodingSnacks/tags/microservicios/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introducción microservicios</title>
+      <link>https://perea7r.github.io/CodingSnacks/posts/december23/04-12-2023/</link>
+      <pubDate>Mon, 04 Dec 2023 09:00:28 +0100</pubDate>
+      
+      <guid>https://perea7r.github.io/CodingSnacks/posts/december23/04-12-2023/</guid>
+      <description>Hoy hablaré de los microservicios, que son, para que sirven y pros y contras.
+¿Qué son? La arquitectura de microservicios proporciona una serie de prácticas, organización de trabajo y de equipos para construir software complejo de forma más eficiente, rápida y a gran escala. Esto es así debido a que la aplicación es un conjunto de servicios pequeños e independientes en el que cada uno se centra en una tarea específica y se comunica con otros servicios a través de interfaces bien definidas.</description>
+    </item>
+    
+  </channel>
+</rss>

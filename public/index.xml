@@ -6,7 +6,17 @@
     <description>Recent content on Ruben Perea</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Tue, 28 Nov 2023 08:45:37 +0100</lastBuildDate><atom:link href="https://perea7r.github.io/CodingSnacks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Dec 2023 09:00:28 +0100</lastBuildDate><atom:link href="https://perea7r.github.io/CodingSnacks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introducción microservicios</title>
+      <link>https://perea7r.github.io/CodingSnacks/posts/december23/04-12-2023/</link>
+      <pubDate>Mon, 04 Dec 2023 09:00:28 +0100</pubDate>
+      
+      <guid>https://perea7r.github.io/CodingSnacks/posts/december23/04-12-2023/</guid>
+      <description>Hoy hablaré de los microservicios, que son, para que sirven y pros y contras.
+¿Qué son? La arquitectura de microservicios proporciona una serie de prácticas, organización de trabajo y de equipos para construir software complejo de forma más eficiente, rápida y a gran escala. Esto es así debido a que la aplicación es un conjunto de servicios pequeños e independientes en el que cada uno se centra en una tarea específica y se comunica con otros servicios a través de interfaces bien definidas.</description>
+    </item>
+    
     <item>
       <title>Técnicas de definición de casos de prueba</title>
       <link>https://perea7r.github.io/CodingSnacks/posts/november23/28-11-2023/</link>
