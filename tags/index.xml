@@ -6,7 +6,16 @@
     <description>Recent content in Tags on Ruben Perea</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Mon, 04 Dec 2023 09:00:28 +0100</lastBuildDate><atom:link href="https://perea7r.github.io/CodingSnacks/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Dec 2023 17:06:29 +0100</lastBuildDate><atom:link href="https://perea7r.github.io/CodingSnacks/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>utilidades</title>
+      <link>https://perea7r.github.io/CodingSnacks/tags/utilidades/</link>
+      <pubDate>Mon, 11 Dec 2023 17:06:29 +0100</pubDate>
+      
+      <guid>https://perea7r.github.io/CodingSnacks/tags/utilidades/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>microservicios</title>
       <link>https://perea7r.github.io/CodingSnacks/tags/microservicios/</link>
@@ -31,15 +40,6 @@
       <pubDate>Mon, 20 Nov 2023 08:53:55 +0100</pubDate>
       
       <guid>https://perea7r.github.io/CodingSnacks/tags/git-y-github/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>utilidades</title>
-      <link>https://perea7r.github.io/CodingSnacks/tags/utilidades/</link>
-      <pubDate>Mon, 13 Nov 2023 11:45:09 +0100</pubDate>
-      
-      <guid>https://perea7r.github.io/CodingSnacks/tags/utilidades/</guid>
       <description></description>
     </item>
     

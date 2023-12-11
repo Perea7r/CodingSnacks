@@ -6,7 +6,18 @@
     <description>Recent content in utilidades on Ruben Perea</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Mon, 13 Nov 2023 11:45:09 +0100</lastBuildDate><atom:link href="https://perea7r.github.io/CodingSnacks/tags/utilidades/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Dec 2023 17:06:29 +0100</lastBuildDate><atom:link href="https://perea7r.github.io/CodingSnacks/tags/utilidades/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Principios SOLID</title>
+      <link>https://perea7r.github.io/CodingSnacks/posts/december23/11-12-2023/</link>
+      <pubDate>Mon, 11 Dec 2023 17:06:29 +0100</pubDate>
+      
+      <guid>https://perea7r.github.io/CodingSnacks/posts/december23/11-12-2023/</guid>
+      <description>El objetivo de la arquitectura de software es mnimizar los recursos humanos necesarios para construir y mantener un sistema.
+Single Responsability. Open-Closed Principle. Liskov Substitution Principle. Interface Segregation Principle. Dependency Inversion Principle. Estos principios nos ayudarán a:
+Crear software escalable. Crear una arquitectura limpia y mantenible. Escribir código más fácil de leer y entendible. Módulos con alta cohesión y bajo acoplamiento. 1. Single Responsability Principle Un módulo debe tener una única razón para cambiar, es decir, que solo debe ser responsable de un usuario, de ninguno más.</description>
+    </item>
+    
     <item>
       <title>Lenguaje ubicuo</title>
       <link>https://perea7r.github.io/CodingSnacks/posts/november23/13-11-2023/</link>
