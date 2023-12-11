@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://perea7r.github.io/CodingSnacks/posts/</loc>
+    <lastmod>2023-12-11T17:06:29+01:00</lastmod>
+  </url><url>
+    <loc>https://perea7r.github.io/CodingSnacks/posts/december23/11-12-2023/</loc>
+    <lastmod>2023-12-11T17:06:29+01:00</lastmod>
+  </url><url>
+    <loc>https://perea7r.github.io/CodingSnacks/</loc>
+    <lastmod>2023-12-11T17:06:29+01:00</lastmod>
+  </url><url>
+    <loc>https://perea7r.github.io/CodingSnacks/tags/</loc>
+    <lastmod>2023-12-11T17:06:29+01:00</lastmod>
+  </url><url>
+    <loc>https://perea7r.github.io/CodingSnacks/tags/utilidades/</loc>
+    <lastmod>2023-12-11T17:06:29+01:00</lastmod>
+  </url><url>
     <loc>https://perea7r.github.io/CodingSnacks/posts/december23/04-12-2023/</loc>
     <lastmod>2023-12-04T09:00:28+01:00</lastmod>
   </url><url>
     <loc>https://perea7r.github.io/CodingSnacks/tags/microservicios/</loc>
-    <lastmod>2023-12-04T09:00:28+01:00</lastmod>
-  </url><url>
-    <loc>https://perea7r.github.io/CodingSnacks/posts/</loc>
-    <lastmod>2023-12-04T09:00:28+01:00</lastmod>
-  </url><url>
-    <loc>https://perea7r.github.io/CodingSnacks/</loc>
-    <lastmod>2023-12-04T09:00:28+01:00</lastmod>
-  </url><url>
-    <loc>https://perea7r.github.io/CodingSnacks/tags/</loc>
     <lastmod>2023-12-04T09:00:28+01:00</lastmod>
   </url><url>
     <loc>https://perea7r.github.io/CodingSnacks/posts/november23/28-11-2023/</loc>
@@ -30,9 +36,6 @@
     <lastmod>2023-11-20T08:53:55+01:00</lastmod>
   </url><url>
     <loc>https://perea7r.github.io/CodingSnacks/posts/november23/13-11-2023/</loc>
-    <lastmod>2023-11-13T11:45:09+01:00</lastmod>
-  </url><url>
-    <loc>https://perea7r.github.io/CodingSnacks/tags/utilidades/</loc>
     <lastmod>2023-11-13T11:45:09+01:00</lastmod>
   </url><url>
     <loc>https://perea7r.github.io/CodingSnacks/tags/ddd/</loc>
